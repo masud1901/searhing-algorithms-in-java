@@ -1,7 +1,4 @@
 
 ]
-java:S1220""Move this file to a named package.8­‡İç1J$b7d7bd01-2c38-4797-87f4-62fbb98958d8
-€
-java:S1854"8Remove this useless assignment to local variable "nums".(­ÿªùÿÿÿÿ8Ãùãç1J$eba2fa3f-6137-4430-96ad-7a38cc718577
-q
-java:S1481")Remove this unused "nums" local variable.(­ÿªùÿÿÿÿ8Æùãç1J$0b1887e6-93e8-44b7-9efa-af45e0e1c1b1
+java:S1220""Move this file to a named package.8ö®€ç1J$ca72cdaf-c5fc-4296-927e-cf6588caa5b7
+r	java:S106#"+Replace this use of System.out by a logger.(³ğ¸ûÿÿÿÿ8ş®€ç1J$1344d41e-91fb-44ac-a1c7-8cea27c6a4f7
