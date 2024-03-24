@@ -1,4 +1,6 @@
 
-V
-java:S1220""Move this file to a named package.J$d9091b9a-8c2d-43ea-8e2b-a3cdfe004017
-k	java:S106"+Replace this use of System.out by a logger.(‚ÞÏ¥ýÿÿÿÿJ$1355ff03-f784-44ff-be9f-3eaad61eac33
+]
+java:S1220""Move this file to a named package.8Å„Ì…ç1J$b8215039-953a-4180-a208-aeef416c5d88
+r	java:S106"+Replace this use of System.out by a logger.(ã¿¢Ôùÿÿÿÿ8ï„Ì…ç1J$cde8f710-8f97-4ccf-b853-8b270db0602e
+r	java:S106"+Replace this use of System.out by a logger.(×ð›Þüÿÿÿÿ8ð„Ì…ç1J$becb877f-f445-4ba8-883b-ad91d846d8a8
+~	java:S125"<This block of commented-out lines of code should be removed.(ê¹Ä8ý–Ø…ç1J$a445e54b-0008-49ba-8d74-a2559cb169cd
