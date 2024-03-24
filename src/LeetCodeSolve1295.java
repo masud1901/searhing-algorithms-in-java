@@ -15,20 +15,20 @@ public class LeetCodeSolve1295 {
 
         ArrayList<Integer> numbers = new ArrayList<>();
 
-        for (int i = 0; i < nums.length; i++) {
-            numbers.add(nums[i]);
+        for (int num : nums) {
+            numbers.add(num);
         }
 
         List<String> numsAsStrings = new ArrayList<>();
 
-        for (int i = 0; i < numbers.size(); i++) {
-            numsAsStrings.add(numbers.get(i).toString());
+        for (Integer number : numbers) {
+            numsAsStrings.add(number.toString());
         }
 
         int count = 0;
 
-        for (int i = 0; i < numsAsStrings.size(); i++) {
-            if (numsAsStrings.get(i).length() % 2 == 0) {
+        for (String numsAsString : numsAsStrings) {
+            if (numsAsString.length() % 2 == 0) {
                 count++;
             }
         }
