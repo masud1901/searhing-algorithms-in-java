@@ -32,7 +32,6 @@ public class LeetCode744 {
     static int ceilingSearch(char[] letters, char target) {
         int left = 0;
         int right = letters.length - 1;
-x
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (target == letters[mid]) {
