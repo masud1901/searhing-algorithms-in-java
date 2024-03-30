@@ -12,13 +12,13 @@ public class LeetCode33 {
     }
 
     public static int search(int[] nums, int target) {
-        int peak = pivotSearch(nums);
+        int pivot = pivotSearch(nums);
 
-        int firstTry = binarySearch(nums, target, 0, peak);
+        int firstTry = binarySearch(nums, target, 0, pivot);
         if (firstTry != -1) {
             return firstTry;
         }
-        return binarySearch(nums, target, peak + 1, nums.length - 1);
+        return binarySearch(nums, target, pivot + 1, nums.length - 1);
 
     }
 
